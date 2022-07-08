@@ -1,4 +1,6 @@
 echo "This is file from GitHub"
 
+echo "Line added for SCM"
+
 
 echo "This is new line added"
